@@ -9,5 +9,6 @@ In addition to temperature, I would recommend further analysis on:
 Precipitation to observe quantity and frequency during June and December, and determine whether precipitation plays a factor despite the warm temperatures that are experienced during this time.
 Elevation to observe and compare in various locations in Oahu, and determine whether one location's elevation attracts or deters business more than another location.
 Elevation relative to both temperature and precipitation during June and December, and determine whether these metrics coupled together also contribute to business.
-<img width="173" alt="Dec_temps" src="https://user-images.githubusercontent.com/99519095/171570653-eb7f4757-4922-42b9-a794-ad6566ab99a1.png">
+
 <img width="150" alt="June_temps" src="https://user-images.githubusercontent.com/99519095/171570657-70d9cbd6-8fba-4401-8874-5148302ef521.png">
+<img width="173" alt="Dec_temps" src="https://user-images.githubusercontent.com/99519095/171570653-eb7f4757-4922-42b9-a794-ad6566ab99a1.png">
